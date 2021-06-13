@@ -4,7 +4,6 @@ Want to know the real value of Diamond then check it here!!
 
 This project is aimed to build a Diamond price prediction model using machine learning algorithms and python flask. This project shows car price of used Diamond.
 
-Deployment is done using deploy branch
 
 You can access it at [Website](https://datastics2.herokuapp.com/)
 
